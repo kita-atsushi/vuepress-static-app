@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "vuepress build"
+    "build:azure": "vuepress build"
   },
   "main": "index.js",
   "scripts": {
